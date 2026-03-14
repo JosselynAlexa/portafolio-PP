@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
+    <title>Portafolio Paradigmas de programacion</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <description>Recent content on Portafolio Paradigmas de programacion</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 19:22:42 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Practica0: Manejo de repositorios</title>
+      <title>Práctica 0: Markdown, Git, GitHub y Hugo</title>
       <link>http://localhost:1313/practica0/</link>
-      <pubDate>Thu, 12 Mar 2026 19:22:42 -0700</pubDate>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/practica0/</guid>
-      <description>&lt;h2 id=&#34;subsecciones&#34;&gt;subsecciones&lt;/h2&gt;&#xA;&lt;h2 id=&#34;descripcion-de-la-practica&#34;&gt;descripcion de la practica&lt;/h2&gt;&#xA;&lt;h2 id=&#34;desarrollo-de-la-practica&#34;&gt;desarrollo de la practica&lt;/h2&gt;&#xA;&lt;h2 id=&#34;conclusiones&#34;&gt;conclusiones&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;reporte-de-practica-0-uso-de-markdown-git-github-y-hugo&#34;&gt;Reporte de practica 0: Uso de Markdown, Git, GitHub y Hugo&lt;/h1&gt;&#xA;&lt;h2 id=&#34;grupo-941&#34;&gt;&lt;strong&gt;Materia:&lt;/strong&gt; Paradigmas de la Programación&lt;br&gt;&#xA;&lt;strong&gt;Docente:&lt;/strong&gt; M.I. José Carlos Gallegos Mariscal&lt;br&gt;&#xA;&lt;strong&gt;Alumno:&lt;/strong&gt; Josselyn Alexa Rivera Chavez&#xA;&lt;strong&gt;Matrícula:&lt;/strong&gt; 379219&#xA;&lt;strong&gt;Grupo:&lt;/strong&gt; 941&lt;/h2&gt;&#xA;&lt;p&gt;En esta práctica se investigaron y utilizaron diferentes herramientas que son comunes en el desarrollo de software y en la publicación de documentación técnica. Estas herramientas permiten escribir documentación de manera sencilla, llevar control de versiones del código y publicar páginas web estáticas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Práctica 01: Estructuras de Datos Lineales (Colas)</title>
