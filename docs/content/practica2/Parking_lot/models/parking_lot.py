@@ -2,7 +2,7 @@ from datetime import datetime
 from models.vehicle import Vehicle
 from models.spot import ParkingSpot, SpotType
 from models.ticket import Ticket, TicketStatus
-from models.rates import RatePolicy, HourlyRatePolicy
+from models.rates import RatePolicy, HourlyRatePolicy, FlatRatePolicy, DiscountedMotoPolicy
 
 
 class ParkingLot:
@@ -102,12 +102,12 @@ class ParkingLot:
 
     # ── Inicialización por defecto ─────────────────────────────────────────
     @classmethod
-    def create_default(cls) -> "ParkingLot":
+    def create_default(cls, policy: RatePolicy | None = None) -> "ParkingLot":
         """
         Crea un estacionamiento de ejemplo con 10 spots:
         5 para autos (A1-A5), 3 para motos (M1-M3), 2 mixtos (X1-X2).
         """
-        lot = cls()
+        lot = cls(policy)
         for i in range(1, 6):
             lot.add_spot(ParkingSpot(f"A{i}", SpotType.CAR))
         for i in range(1, 4):
