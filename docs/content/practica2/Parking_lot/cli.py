@@ -105,7 +105,7 @@ def ver_ocupacion(lot: ParkingLot):
     _sep("·")
     print("  Detalle de spots:")
     for spot in lot.get_spots():
-        icono = "🔴" if spot.is_occupied() else "🟢"
+        icono = "" if spot.is_occupied() else ""
         print(f"    {icono}  {spot}")
 
 
@@ -175,7 +175,7 @@ def run():
         elif opcion == "5":
             cambiar_politica(lot)
         elif opcion == "6":
-            print("\n  ¡Hasta luego! 👋\n")
+            print("\n  ¡Hasta luego! \n")
             break
         else:
             print("    Opción no válida. Elige entre 1 y 6.")
