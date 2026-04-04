@@ -1,7 +1,7 @@
 +++
 date = '2026-02-17T17:46:34-08:00'
 draft = false
-title = 'Practica2'
+title = 'Practica 2'
 +++
 
 # Reporte de Práctica 02: Simulador de Estacionamiento
@@ -204,10 +204,12 @@ Documentación de Flask
 Material de clase
 
 ### 10. Enlaces de la Entrega
+
+Josselyn Alexa Rivera Chavez
+* Repositorio: https://github.com/JosselynAlexa/portafolio-PP
+* Página Publicada: https://josselynalexa.github.io/portafolio-PP/practica2/
+  
 Veronica Acevedo Carrillo
 * Repositorio:[GitHub - portafolio_Paradigma](https://github.com/veroni384/portafolio_Paradigma)
 * Página Publicada: Práctica 02
 
-Josselyn Alexa Rivera Chavez
-* Repositorio: GitHub
-* Página Publicada: Práctica 02
