@@ -133,11 +133,12 @@ def get_duration_hours(self) -> float:
 * No se permite salida antes de entrada
 
 ## 6. Pruebas del sistema
-![Imagen](./imagen1.png)
 
-![Imagen](./imagen2.png)
+![Imagen](/practica2/imagen1.png)
 
-![Imagen](./imagen3.png)
+![Imagen](/practica2/imagen2.png)
+
+![Imagen](/practica2/imagen3.png)
 Consola
 
 Entrada: ABC-123 → Spot A1
