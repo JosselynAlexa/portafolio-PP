@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = baseURL = 'https://josselynalexa.github.io/portafolio-PP/'
 languageCode = 'en-us'
 title = 'Portafolio Paradigmas de programacion'
 theme = 'ananke'
