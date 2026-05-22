@@ -1,8 +1,10 @@
-+++
-date = '2026-02-17T17:46:34-08:00'
-draft = false
-title = 'Practica 2'
-+++
+---
+title: "Práctica 2: Simulador de estacionamiento"
+date: 2026-02-17
+draft: false
+author: " Josselyn Alexa Rivera Chavez 379219"
+categories: ["Paradigmas de Programación"]
+---
 
 # Reporte de Práctica 02: Simulador de Estacionamiento
 
@@ -41,7 +43,7 @@ El sistema permite registrar la entrada y salida de vehículos, asignar espacios
 ### Diagrama UML Detallado
 El siguiente diagrama muestra la jerarquía de herencia y cómo se relacionan las clases mediante composición y protocolos.
 
-![Diagrama UML](Estacionamiento.png)
+![Diagrama UML](./Estacionamiento.png)
 
 ├── ParkingSpot
 
@@ -133,11 +135,11 @@ def get_duration_hours(self) -> float:
 * No se permite salida antes de entrada
 
 ## 6. Pruebas del sistema
-![Imagen](Imagen1.png)
+![Imagen](./Imagen1.png)
 
-![Imagen](Imagen2.png)
+![Imagen](./Imagen2.png)
 
-![Imagen](Imagen3.png)
+![Imagen](./Imagen3.png)
 Consola
 
 Entrada: ABC-123 → Spot A1
