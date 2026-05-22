@@ -4,9 +4,7 @@ draft = false
 title = 'Practica 3'
 +++
 
-# Universidad Autónoma de Baja California
-## Facultad de Ingeniería, Arquitectura y Diseño
-### Paradigmas de programación
+
 
 # PRÁCTICA 3
 
