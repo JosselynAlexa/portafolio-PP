@@ -272,3 +272,8 @@ La práctica permitió conocer el paradigma lógico y el funcionamiento de Prolo
 El uso de Prolog resulta útil para representar conocimiento y resolver problemas relacionados con inteligencia artificial, sistemas expertos y búsqueda lógica.
 
 ---
+
+### Enlaces de Entrega
+Josselyn Alexa Rivera Chavez
+* Repositorio: https://github.com/JosselynAlexa/portafolio-PP
+* Página Publicada: https://josselynalexa.github.io/portafolio-PP/practica4/
